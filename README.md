@@ -1,6 +1,10 @@
 # Clash for Windows 下载最新版下载Clash官网资源
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashforWindows" src="https://github.com/user-attachments/assets/844b4a12-a601-466b-b299-f92a244fe2fa" />
+</div>
+<br>
 
 ## :memo: Clash节点资源
 
